@@ -29,7 +29,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	private BitmapFont font;
 
 	@Override
-	public void create() {
+	public void create() {	// game initilization 
 		font = new BitmapFont();
 		font.setColor(Color.RED);
 		font.getData().setScale(8);
@@ -46,7 +46,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	}
 
 	@Override
-	public void render () {
+	public void render () {	// capture movements during game
 		if (secondsLeft <=0 ) {
 			gameOver = true;
 		}
