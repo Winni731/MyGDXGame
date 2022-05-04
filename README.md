@@ -13,4 +13,6 @@ Need to adjust build.gradle:
   5. Using virual phone size, Pixel 1080 x 1920
   
 
+![alt text](https://github.com/Winni731/MyGDXGame/blob/master/assets/git_project1.png)
+![alt text](https://github.com/Winni731/MyGDXGame/blob/master/assets/git_project2.png)
 
