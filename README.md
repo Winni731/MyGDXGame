@@ -12,5 +12,5 @@ Need to adjust build.gradle:
   4. fixed SDK 32 Error by DownGrading SDK version to 30 and adjust gradle build
   5. Using virual phone size, Pixel 1080 x 1920
   
- 
+ ![alt text]git_project1.png
 
